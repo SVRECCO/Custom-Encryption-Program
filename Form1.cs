@@ -9,7 +9,11 @@ namespace Custom_encryption
     public partial class Form1 : Form
     {
         private string encryptionKey; // The encryption key
-        public string GBKey { get; set; }
+        public string GBKey
+        {
+            get;
+            set;
+        }
 
         public Form1()
         {
@@ -52,7 +56,8 @@ namespace Custom_encryption
 
             ICryptoTransform encryptor = aesAlg.CreateEncryptor(aesAlg.Key, aesAlg.IV);
 
-            using var msEncrypt = new MemoryStream();
+            using
+            var msEncrypt = new MemoryStream();
             using (CryptoStream csEncrypt = new CryptoStream(msEncrypt, encryptor, CryptoStreamMode.Write))
             {
                 using (StreamWriter swEncrypt = new StreamWriter(csEncrypt, Encoding.UTF8))
@@ -74,7 +79,8 @@ namespace Custom_encryption
 
             ICryptoTransform decryptor = aesAlg.CreateDecryptor(aesAlg.Key, aesAlg.IV);
 
-            using var msDecrypt = new MemoryStream(data);
+            using
+            var msDecrypt = new MemoryStream(data);
             using CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read);
             using StreamReader srDecrypt = new StreamReader(csDecrypt, Encoding.UTF8);
 
