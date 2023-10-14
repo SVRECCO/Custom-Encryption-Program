@@ -1,0 +1,5 @@
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\Custom encryption.csproj.AssemblyReference.cache
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\Custom_encryption.Form1.resources
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\Custom_encryption.Properties.Resources.resources
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\Custom encryption.csproj.GenerateResource.cache
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\Custom encryption.csproj.CoreCompileInputs.cache
