@@ -47,7 +47,7 @@
             tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             tableLayoutPanel1.Controls.Add(bt1, 0, 0);
             tableLayoutPanel1.Controls.Add(bt2, 1, 0);
-            tableLayoutPanel1.Location = new System.Drawing.Point(9, 296);
+            tableLayoutPanel1.Location = new System.Drawing.Point(8, 287);
             tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 1;
@@ -63,7 +63,7 @@
             bt1.Location = new System.Drawing.Point(4, 3);
             bt1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             bt1.Name = "bt1";
-            bt1.Size = new System.Drawing.Size(313, 47);
+            bt1.Size = new System.Drawing.Size(313, 45);
             bt1.TabIndex = 0;
             bt1.Text = "Encrypt";
             bt1.UseVisualStyleBackColor = false;
@@ -77,7 +77,7 @@
             bt2.Location = new System.Drawing.Point(325, 3);
             bt2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             bt2.Name = "bt2";
-            bt2.Size = new System.Drawing.Size(314, 47);
+            bt2.Size = new System.Drawing.Size(314, 45);
             bt2.TabIndex = 1;
             bt2.Text = "Decrypt";
             bt2.UseVisualStyleBackColor = false;
@@ -141,7 +141,7 @@
             bt3.Location = new System.Drawing.Point(280, 232);
             bt3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             bt3.Name = "bt3";
-            bt3.Size = new System.Drawing.Size(96, 34);
+            bt3.Size = new System.Drawing.Size(96, 32);
             bt3.TabIndex = 6;
             bt3.Text = "Set Key";
             bt3.UseVisualStyleBackColor = false;
@@ -152,7 +152,7 @@
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             BackColor = System.Drawing.Color.FromArgb(57, 54, 70);
-            ClientSize = new System.Drawing.Size(656, 391);
+            ClientSize = new System.Drawing.Size(656, 348);
             Controls.Add(bt3);
             Controls.Add(label2);
             Controls.Add(tb2);
