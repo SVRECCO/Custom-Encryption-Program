@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzK4A7Wms4LaWhS/ywZAyqdW4qC2UJxCfIaUKpcQrozB8vTiPwNlgqltanDWHH5NDCUvHdZ7IjVIGhs7cHfVkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bob11\\Source\\Repos\\Custom-Encryption-Program\\Custom encryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bob11\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bob11\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.exe
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.dll.config
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.deps.json
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.runtimeconfig.json
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.dll
+C:\Users\bob11\source\repos\Custom encryption\bin\Debug\net7.0-windows\Custom encryption.pdb
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom_encryption.Form1.resources
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom_encryption.Properties.Resources.resources
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.csproj.GenerateResource.cache
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.csproj.CoreCompileInputs.cache
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.dll
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\refint\Custom encryption.dll
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.pdb
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\Custom encryption.genruntimeconfig.cache
+C:\Users\bob11\source\repos\Custom encryption\obj\Debug\net7.0-windows\ref\Custom encryption.dll
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.exe
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.dll.config
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.deps.json
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.runtimeconfig.json
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.dll
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\bin\Debug\net7.0-windows\Custom encryption.pdb
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom_encryption.Form1.resources
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom_encryption.Properties.Resources.resources
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.csproj.GenerateResource.cache
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.csproj.CoreCompileInputs.cache
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.dll
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\refint\Custom encryption.dll
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.pdb
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\Custom encryption.genruntimeconfig.cache
+C:\Users\bob11\Source\Repos\Custom-Encryption-Program\obj\Debug\net7.0-windows\ref\Custom encryption.dll
